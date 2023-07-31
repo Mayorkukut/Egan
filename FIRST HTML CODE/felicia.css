@@ -1,0 +1,17 @@
+h1, p{
+    color: green;
+}
+div > h2{
+    color: red;
+}
+div > ul{
+    color: blue;
+}
+.felly#word{
+    color: yellow;
+}
+button{
+    padding: 50px;
+    color: blue;
+    background-color: black;
+}

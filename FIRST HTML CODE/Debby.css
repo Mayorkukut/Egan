@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+#Header{
+    background-color: aqua;
+    padding: 110px 0;
+}
+h1{
+    font-size: 5rem;
+    font-family: 'Lumanosimo', cursive;
+}
+.web{
+    font-size: 3rem;
+}
+h2{
+    color: aqua;
+    margin-top: 60px;
+}
+img{
+    width: 200px;
+}
+.About{
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+}
+h3{
+    color: rgb(10, 126, 126);
+    margin-top: 50px;
+}
+li{
+    list-style-type: none;
+    /* when you want to remove the bullet point, you use list-style-type */
+    margin-right: 50px;
+}
+.Egan{
+    color: rgb(58, 173, 173);
+    
+}
+.KD{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 10px 50px;
+}
+footer{
+    background-color: brown;
+    padding: 50px 50px;
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+    /* when you want to remove the line under the link, you use text-decoration and set it to none */
+    color: yellow;
+    margin: 6px;
+    
+}

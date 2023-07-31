@@ -1,0 +1,43 @@
+h1, h2{
+    color: blue;
+    color: yellow; !important
+    /* the !important overrides the color blue */
+    
+}
+    
+/* body{
+    color: blue;
+} */
+/* combine selector */
+/* or h1, h2{
+    color: blue;
+} */
+.hello > h2{
+    color: red;
+}
+div > h2{
+    color: green;
+/* div > li{
+    color: green
+} another same method */
+}
+div > li{
+    color: yellowgreen;
+}
+
+.world#word{
+    color: blue;
+}
+/* chaining selector */
+
+button{
+    padding: 50px;
+    color: blue;
+    background-color: black;
+}
+ 
+button:hover{
+    
+    color: pink;
+    color: red; !important
+}
